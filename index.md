@@ -20,9 +20,9 @@ Past Offerings
 Each offering site includes links to assignments, slides, and readings.
 You are welcome to use any of the materials you find.
 
-- [Spring 2024](/sp24) - Open-Source
-- Fall 2024: Contact instructors
 - [Spring 2025](/sp25)
+- Fall 2024: Contact instructors
+- [Spring 2024](/sp24) - Open-Source
 
 -------------------
 
