@@ -17,9 +17,11 @@ The course is offered in partnership with the [UC Berkeley Division of Computing
 Past Offerings
 ----
 
-Each offering site includes links to assignments, slides, and readings.
+Each offering site includes links to assignments, slides, and readings; links may require UC Berkeley login.
 You are welcome to use any of the materials you find.
 
+- [Fall 2026](/fa26)
+- Spring 2026: Contact instructors
 - [Spring 2025](/sp25)
 - Fall 2024: Contact instructors
 - [Spring 2024](/sp24)
